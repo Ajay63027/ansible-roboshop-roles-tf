@@ -1,2 +1,2 @@
-REDIS_HOST: redis.ajay6.space
-MONGODB_HOST: mongodb.ajay6.space
+REDIS_HOST: redis{{ env }}.ajay6.space
+MONGODB_HOST: mongodb{{ env }}.ajay6.space
